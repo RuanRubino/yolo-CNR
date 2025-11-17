@@ -3,4 +3,4 @@ train
 valid
 
 *.zip
-*.txt
+README*.txt
